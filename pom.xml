@@ -29,10 +29,7 @@
     <developer>
       <id>jweslley</id>
       <name>Jonhnny Weslley</name>
-      <email>jonhnnyweslley at gmail.com</email>
-      <roles>
-        <role>Project Leader</role>
-      </roles>
+      <email>jonhnnyweslley [at] gmail.com</email>
       <timezone>-3</timezone>
     </developer>
   </developers>
