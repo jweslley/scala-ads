@@ -1,5 +1,6 @@
-.classpath
-.project
-.manager/*
+lib
+lib_managed
+project/boot/*
+project/build/target/*
 target/*
 
